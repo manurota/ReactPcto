@@ -1,0 +1,6 @@
+table, td, th{
+    width: 30%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+}
